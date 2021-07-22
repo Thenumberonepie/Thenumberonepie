@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Thenumberonepie
 - 👀 I’m interested in ... Software development
-- 🌱 I’m currently learning ... Java, C#,Kotlin
+- 🌱 I’m currently learning ... Java, C++,Kotlin
 - 💞️ I’m looking to collaborate on ... no sure yet... sometihng, hit me up!
 - 📫 How to reach me ... yes...
 
